@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Chetan dhotre</h1>
-      <h2>Full stack developer </H2>
+      <h2>Full stack developer </h2>
     </div>
   );
 }
