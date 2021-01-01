@@ -1,5 +1,5 @@
 
- React, { useState } from 'react';
+import React, { useState } from 'react';
 import './styles.css';
  function App(){
 	const [playing, setPlaying] = useState(false);
