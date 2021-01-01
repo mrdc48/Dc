@@ -4,8 +4,8 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>HCodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h1>Chetan dhotre</h1>
+      <h2>Full stack developer </H2>
     </div>
   );
 }
